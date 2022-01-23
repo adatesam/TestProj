@@ -7,6 +7,7 @@ public class WelcomeJava {
 		System.out.println("Welcome to java bro!!");
 		
 		System.out.println("before second commit");
+		System.out.println("before third commit");
 	}
 
 }
