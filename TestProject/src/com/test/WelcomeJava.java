@@ -9,6 +9,7 @@ public class WelcomeJava {
 		System.out.println("before second commit");
 		System.out.println("before third commit");
 		System.out.println("in branch1");
+		System.out.println("changes made in newaly added class");
 	}
 
 }
